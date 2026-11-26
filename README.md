@@ -2,76 +2,77 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="WENGENG — Building useful software">
+  <img src="./assets/header-light.svg" alt="WENGENG — Build what matters. AI systems, web products, developer tools." width="100%">
 </picture>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=738096&center=true&vCenter=true&width=760&height=34&lines=AI+tools+%E2%80%A2+Web+apps+%E2%80%A2+Developer+experience;Building%2C+learning%2C+and+shipping.)](https://git.io/typing-svg)
+**Independent builder · AI, product engineering & developer experience**
 
-**Developer · Product builder · Student**
+I like making useful software, from the first idea to a working product.
+
+<br>
+
+[**Explore projects**](#01--selected-work) &nbsp; / &nbsp; [**My toolbox**](#02--toolbox) &nbsp; / &nbsp; [**GitHub activity**](#03--activity)
+
+<br>
 
 [![VibeUsage](https://vibefriends.com/@yizheng/badge)](https://vibefriends.com/@yizheng?ref=badge)
 
-[Projects](#selected-work) &nbsp;·&nbsp; [Tech stack](#toolbox) &nbsp;·&nbsp; [Activity](#github-activity)
-
 </div>
 
 ---
 
-### A little about me
+### 01 / Selected work
 
-I build practical tools at the intersection of **AI, web development, and developer experience**. I like turning ideas into working products, keeping interfaces simple, and making the details reliable.
-
-- Currently building **Abroa**, a finance experience for international students.
-- Exploring **AI infrastructure**, automation, and thoughtful product design.
-- Always learning through real projects.
-
-### Selected work
-
-| Project | What it does |
-| :--- | :--- |
-| **[Pseudocode Editor](https://github.com/WENGENG-boop/PseudocodeEditor)** | Browser-based Cambridge pseudocode editor with execution, trace tables, and syntax assistance. |
-| **[Abroa](https://github.com/WENGENG-boop/Abroa)** | Work in progress: adapting personal-finance workflows for international students. |
-| **[vibe-usage](https://github.com/WENGENG-boop/vibe-usage)** | Tooling for tracking AI coding usage. |
-| **[Personal website](https://github.com/WENGENG-boop/easonweng-site)** | A Next.js personal-site project. |
-
-### Toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,docker,python,rust,git&perline=11" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, PostgreSQL, Docker, Python, Rust, Git" />
-
-</div>
-
-### GitHub activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WENGENG-boop&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=WENGENG-boop&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub statistics">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WENGENG-boop&layout=compact&hide_border=true&theme=github_dark&langs_count=6">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WENGENG-boop&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top languages">
-</picture>
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/WENGENG-boop/Abroa">Abroa</a> <sup>IN DEVELOPMENT</sup></h3>
+<p>Personal finance workflows designed around the needs of international students.</p>
+<sub>PRODUCT ENGINEERING · FINTECH · WEB / PWA</sub>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/WENGENG-boop/PseudocodeEditor">Pseudocode Editor</a></h3>
+<p>A browser-based editor and runner for Cambridge-style pseudocode, with tracing and debugging tools.</p>
+<sub>EDUCATION · NEXT.JS · DEVELOPER TOOLS</sub>
 <br><br>
+<a href="https://pseudocode.site/">Try the web app</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/WENGENG-boop/vibe-usage">vibe-usage</a></h3>
+<p>Tooling for tracking token usage across AI coding workflows.</p>
+<sub>AI TOOLING · CLI · AUTOMATION</sub>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/WENGENG-boop?tab=repositories">Other experiments</a></h3>
+<p>Smaller utilities, experiments, and explorations in AI and web development.</p>
+<sub>EXPLORE THE REPOSITORIES</sub>
+</td>
+</tr>
+</table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WENGENG-boop/WENGENG-boop/output/github-contribution-grid-snake-dark.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/WENGENG-boop/WENGENG-boop/output/github-contribution-grid-snake.svg" alt="Contribution activity animation">
-</picture>
+### 02 / Toolbox
 
-<sub>Contribution animation is generated automatically by GitHub Actions.</sub>
+<p>Technologies I work with and explore:</p>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,postgres,docker,python,git&perline=9" alt="TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Docker, Python, Git" />
+</p>
 
----
+### 03 / Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WENGENG-boop/WENGENG-boop/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/WENGENG-boop/WENGENG-boop/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake, updated by GitHub Actions">
+  </picture>
+</p>
 
 <div align="center">
 
-<sub>Build useful things. Keep improving them.</sub>
+<sub>Design intentionally. Build steadily. Ship useful things.</sub>
 
 </div>

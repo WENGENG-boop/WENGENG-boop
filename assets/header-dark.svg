@@ -1,23 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="WENGENG, building useful software">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="366" viewBox="0 0 1280 366" role="img" aria-labelledby="title desc">
+<title id="title">WENGENG — Build what matters</title><desc id="desc">Minimal GitHub profile header for AI, product engineering, and developer tools</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#141C28"/></linearGradient>
-  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#FFFFFF" stroke-opacity=".035" stroke-width="1"/></pattern>
-  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#55D6BE"/><stop offset="1" stop-color="#738BFF"/></linearGradient>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1019"/><stop offset="1" stop-color="#101926"/></linearGradient>
+ <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#64748B" opacity=".26"/></pattern>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9DF3C7" stop-opacity=".95"/><stop offset="1" stop-color="#9DF3C7" stop-opacity=".1"/></linearGradient>
 </defs>
-<rect width="1200" height="280" rx="18" fill="url(#bg)"/>
-<rect width="1200" height="280" rx="18" fill="url(#grid)"/>
-<rect x="42" y="48" width="4" height="178" rx="2" fill="url(#line)"/>
-<text x="76" y="87" fill="#76E0CE" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700" letter-spacing="3">SOFTWARE / PRODUCT / AI</text>
-<text x="72" y="172" fill="#F0F4F8" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="800" letter-spacing="-3">WENGENG<tspan fill="#76E0CE">.</tspan></text>
-<text x="77" y="218" fill="#A9B5C7" font-family="Arial, Helvetica, sans-serif" font-size="23">Designing ideas. Shipping software.</text>
-<g transform="translate(1010 138)" fill="none" stroke-width="1.5">
-  <circle r="108" stroke="#73DBC8" stroke-opacity=".23"/>
-  <circle r="78" stroke="#73DBC8" stroke-opacity=".55"/>
-  <circle r="47" stroke="#91A5FF" stroke-opacity=".5"/>
-  <path d="M-119 0H119M0-119V119" stroke="#FFFFFF" stroke-opacity=".15"/>
-  <path d="M-78 0A78 78 0 0 1 0 -78" stroke="#73DBC8" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="75" cy="-20" r="6" fill="#73DBC8" stroke="none"/>
-  <circle cx="-24" cy="73" r="4" fill="#91A5FF" stroke="none"/>
+<rect width="1280" height="366" rx="20" fill="url(#bg)"/>
+<rect x="1" y="1" width="1278" height="364" rx="19" fill="none" stroke="#344354" stroke-opacity=".60"/>
+<rect x="735" y="1" width="544" height="364" rx="19" fill="url(#dots)"/>
+<path d="M735 1V365" fill="none" stroke="#344354" stroke-opacity=".55"/>
+<rect x="67" y="53" width="27" height="5" rx="2" fill="#9DF3C7"/>
+<text x="108" y="61" fill="#A6B3C2" font-family="Consolas,Menlo,monospace" font-size="15" font-weight="600" letter-spacing="2.4">WENGENG  /  INDEPENDENT BUILDER</text>
+<text x="65" y="177" fill="#F5F7FA" font-family="Arial,Helvetica,sans-serif" font-size="84" font-weight="800" letter-spacing="-3">Build what</text>
+<text x="65" y="266" fill="#F5F7FA" font-family="Arial,Helvetica,sans-serif" font-size="84" font-weight="800" letter-spacing="-3">matters<tspan fill="#9DF3C7">.</tspan></text>
+<path d="M67 308H660" stroke="#344354" stroke-opacity=".72"/>
+<text x="67" y="335" fill="#A6B3C2" font-family="Consolas,Menlo,monospace" font-size="15" letter-spacing=".7">AI SYSTEMS   /   WEB PRODUCTS   /   DEV TOOLS</text>
+<g transform="translate(795 68)">
+  <rect x="16" y="20" width="365" height="220" rx="15" fill="#172D29" stroke="#344354" stroke-width="1.2"/>
+  <rect x="0" y="0" width="365" height="220" rx="15" fill="#111C2A" stroke="#344354" stroke-width="1.5"/>
+  <path d="M0 44H365" stroke="#344354" stroke-width="1.2"/>
+  <circle cx="22" cy="23" r="5" fill="#9DF3C7"/><circle cx="41" cy="23" r="5" fill="#768798" opacity=".45"/><circle cx="60" cy="23" r="5" fill="#768798" opacity=".32"/>
+  <text x="341" y="28" fill="#768798" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="12">~/projects</text>
+  <text x="25" y="91" fill="#768798" font-family="Consolas,Menlo,monospace" font-size="14">01  /  think</text>
+  <text x="25" y="126" fill="#F5F7FA" font-family="Consolas,Menlo,monospace" font-size="19" font-weight="700">idea</text>
+  <path d="M100 120H173" stroke="#9DF3C7" stroke-width="2.3" stroke-linecap="round"/><path d="M164 112L176 120L164 128" fill="none" stroke="#9DF3C7" stroke-width="2.3" stroke-linejoin="round"/>
+  <text x="193" y="126" fill="#F5F7FA" font-family="Consolas,Menlo,monospace" font-size="19" font-weight="700">product</text>
+  <path d="M25 151H340" stroke="#344354" stroke-dasharray="3 6"/>
+  <text x="25" y="182" fill="#768798" font-family="Consolas,Menlo,monospace" font-size="13">02  /  make it real</text>
+  <rect x="262" y="165" width="79" height="30" rx="15" fill="#172D29" stroke="#9DF3C7" stroke-opacity=".6"/>
+  <circle cx="279" cy="180" r="4" fill="#9DF3C7"/>
+  <text x="290" y="184" fill="#9DF3C7" font-family="Consolas,Menlo,monospace" font-size="12" font-weight="700">SHIP</text>
 </g>
-<text x="981" y="265" fill="#6E819D" font-family="Consolas, monospace" font-size="11" letter-spacing="1">GITHUB / 2026</text>
+<text x="810" y="324" fill="#768798" font-family="Consolas,Menlo,monospace" font-size="13" letter-spacing=".7">DESIGN  /  BUILD  /  ITERATE</text>
 </svg>

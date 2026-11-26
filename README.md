@@ -11,6 +11,8 @@
 
 **Developer · Product builder · Student**
 
+[![VibeUsage](https://vibefriends.com/@yizheng/badge)](https://vibefriends.com/@yizheng?ref=badge)
+
 [Projects](#selected-work) &nbsp;·&nbsp; [Tech stack](#toolbox) &nbsp;·&nbsp; [Activity](#github-activity)
 
 </div>

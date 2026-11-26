@@ -13,7 +13,7 @@ I like making useful software, from the first idea to a working product.
 
 <br>
 
-[**Explore projects**](#01--selected-work) &nbsp; / &nbsp; [**My toolbox**](#02--toolbox) &nbsp; / &nbsp; [**GitHub activity**](#03--activity)
+[**Explore projects**](#01--selected-work) &nbsp; / &nbsp; [**Live deployments**](#02--live-deployments) &nbsp; / &nbsp; [**My toolbox**](#03--toolbox) &nbsp; / &nbsp; [**Activity**](#04--activity)
 
 <br>
 
@@ -54,7 +54,34 @@ I like making useful software, from the first idea to a working product.
 </tr>
 </table>
 
-### 02 / Toolbox
+### 02 / Live deployments
+
+A few deployed projects and experiments, available to explore:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong><a href="https://wdc.weo.asia/">wdc.weo.asia</a></strong><br>
+<sub>OPEN DEPLOYMENT ↗</sub>
+</td>
+<td width="50%" valign="top">
+<strong><a href="https://exmd.weo.asia/">exmd.weo.asia</a></strong><br>
+<sub>OPEN DEPLOYMENT ↗</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong><a href="https://poker-online.weo.asia/">poker-online.weo.asia</a></strong><br>
+<sub>OPEN DEPLOYMENT ↗</sub>
+</td>
+<td width="50%" valign="top">
+<strong><a href="https://new.weo.asia/">new.weo.asia</a></strong><br>
+<sub>OPEN DEPLOYMENT ↗</sub>
+</td>
+</tr>
+</table>
+
+### 03 / Toolbox
 
 <p>Technologies I work with and explore:</p>
 
@@ -62,7 +89,7 @@ I like making useful software, from the first idea to a working product.
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,postgres,docker,python,git&perline=9" alt="TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Docker, Python, Git" />
 </p>
 
-### 03 / Activity
+### 04 / Activity
 
 <p align="center">
   <picture>
